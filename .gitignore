@@ -1,1 +1,3 @@
 webpack.stats.json
+*.css.map
+stats.html
